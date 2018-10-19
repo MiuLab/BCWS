@@ -1,4 +1,4 @@
-## BCWS: Bilingual Contextual Word Similarity Dataset
+# BCWS: Bilingual Contextual Word Similarity Dataset
 
 ## Description
 Every 4 lines in the file form a testing instance. The first line in the pos tag. The second and the third lines are the bilingual sentences. The target word in each sentence is indicated by <target\_word>. The fourth line is the annotated scores from 11 annotators and the average value. For more details, please refer to [[2]]().
