@@ -5,7 +5,9 @@ Every 4 lines in the file form a testing instance.
 The first line in the pos tag. 
 The second and the third lines are the bilingual sentences. 
 The target word in each sentence is indicated by <target\_word>. 
-The fourth line is the annotated scores from 11 annotators and the average value. For more details, please refer to [[2]]().
+The fourth line is the annotated scores from 11 annotators and the average value. 
+For more details, please refer to [[2]]().
+
 Please note that we use Chinese (Traditional) in the dataset. If your training corpus or vocabulary is in Chinese (Simplified), a conversion tool for preprocessing is suggested.
 For details, please refer to [this](https://github.com/MiuLab/CLUSE) repository, we use [this](https://github.com/yichen0831/opencc-python) toolkit with *s2t* conversion mode.
 
