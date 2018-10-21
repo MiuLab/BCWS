@@ -1,5 +1,7 @@
 # BCWS: Bilingual Contextual Word Similarity Dataset
 
+![Data](https://www.csie.ntu.edu.tw/~miulab/images/project/bcws.jpg)
+
 ## Description
 Every 4 lines in the file form a testing instance.
 The first line in the pos tag. 
