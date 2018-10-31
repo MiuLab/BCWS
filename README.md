@@ -1,5 +1,4 @@
-# BCWS: Bilingual Contextual Word Similarity Dataset
-
+# BCWS: Bilingual Contextual Word Similarity Dataset 
 ![Data](https://www.csie.ntu.edu.tw/~miulab/images/project/bcws.jpg)
 
 ## Description
@@ -44,4 +43,8 @@ Please cite [[1]](https://arxiv.org/abs/1809.05694) and [[2]](https://arxiv.org/
   year={2018}
 }
 ```
+### Acknowledgement 
+This project is supported by Google Faculty Research Awards and MOST.
+
+<img src="https://www.ischool.utexas.edu/sites/default/files/images/faculty_award.png" width="250"><img src="http://www.chem.ccu.edu.tw/~giantshoulder/New_logo_2_PNG.PNG" width="250">
 
